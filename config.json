@@ -1,0 +1,9 @@
+{
+  "weights": "weights/vegetation_model.pt",
+  "base_channels": 32,
+  "input_size": [
+    256,
+    256
+  ],
+  "threshold": 0.36
+}
