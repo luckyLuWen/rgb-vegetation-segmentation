@@ -14,7 +14,7 @@ python -m pip install -r requirements.txt
 
 ## Load weights
 
-Download [`vegetation_model.pt` from Google Drive](https://drive.google.com/file/d/1dKVrZddA9P7YpfBDdvcNgfV34DiSZSoK/view?usp=drivesdk) and place it in `weights/`.
+The pretrained weights are included in [`weights/vegetation_model.pt`](weights/vegetation_model.pt) and loaded automatically using `config.json`.
 
 ## Run the two examples
 

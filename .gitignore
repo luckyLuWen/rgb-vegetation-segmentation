@@ -2,8 +2,8 @@ __pycache__/
 *.py[cod]
 .venv/
 outputs/
-weights/
 *.pt
 *.pth
+!weights/vegetation_model.pt
 .DS_Store
 Thumbs.db
