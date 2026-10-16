@@ -14,7 +14,7 @@ python -m pip install -r requirements.txt
 
 ## Load weights
 
-The pretrained weights are included in [`weights/vegetation_model.pt`](weights/vegetation_model.pt) and loaded automatically using `config.json`.
+Load the pretrained model from [`weights/vegetation_model.pt`](weights/vegetation_model.pt).
 
 ## Run the two examples
 
